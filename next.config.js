@@ -15,6 +15,9 @@ const nextConfig = {
     ],
   },
   trailingSlash: true,
+  experimental: {
+    outputStandalone: true,
+}
 };
 
 module.exports = withPWA(nextConfig);
