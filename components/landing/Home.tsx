@@ -21,7 +21,7 @@ export default function Landing() {
               }}
               className="text-4xl font-bold sm:text-[5vw] md:text-5xl lg:leading-[5.5rem] lg:text-[5rem] text-white"
             >
-              Learn. Build. Share.
+              Learn. Build.
             </Motion.div>
 
             <Motion.p
